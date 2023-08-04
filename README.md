@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rashen
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on web dev projects.
+- 🌱 I’m currently learning JDBC and Spring boot.
 - 📫 How to reach me ... rashen598@gmail.com
 
 <!---
