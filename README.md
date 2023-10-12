@@ -1,3 +1,5 @@
+[![An image of @rashen33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rashen33)](https://holopin.io/@rashen33)
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 <!-- <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" /> -->
@@ -45,6 +47,4 @@
 <hr>
 <br>
 
-<h2> My Holopin Board </h2>
 
-[![An image of @rashen33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rashen33)](https://holopin.io/@rashen33)
